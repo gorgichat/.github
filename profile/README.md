@@ -30,4 +30,4 @@ Built with cutting-edge technologies, it offers developers and users a sleek, cu
 
 ---
 
-💡 *GorgiChat is not open-source for now.*  
+💡 *GorgiChat is open-source now, you can start an issue or directly open pull request.*  
