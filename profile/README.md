@@ -1,0 +1,33 @@
+# 👋 Welcome to GorgiChat
+
+**GorgiChat** is a modern, fast, and secure chat platform designed with flexibility and simplicity in mind.  
+Built with cutting-edge technologies, it offers developers and users a sleek, customizable experience.
+
+🌐 **Website**: [gorgichat.github.io](https://gorgichat.github.io)  
+💻 **GitHub**: [github.com/gorgichat](https://github.com/gorgichat)
+
+---
+
+## 🚀 Tech Stack
+- **Backend**: [Go](https://go.dev/) with [Gin](https://gin-gonic.com/) & [Gorm](https://gorm.io/)  
+- **Frontend**: [TypeScript](https://www.typescriptlang.org/) (via [Bun](https://bun.sh/)) & [React](https://react.dev/)
+
+---
+
+## ✨ Features
+- **Modern** – clean architecture, minimal overhead  
+- **Fast** – optimized backend & Bun-powered frontend  
+- **Customizable** – easily adaptable for different use cases  
+- **Secure** – built with privacy and safety in mind  
+
+---
+
+## 🛠️ Getting Started
+1. Clone the repo from [GitHub](https://github.com/gorgichat)  
+2. Run backend with Go + Gin  
+3. Start frontend with Bun + React  
+4. Build your own chat experience 🚀  
+
+---
+
+💡 *GorgiChat is not open-source for now.*  
