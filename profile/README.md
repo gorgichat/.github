@@ -3,8 +3,8 @@
 **GorgiChat** is a modern, fast, and secure chat platform designed with flexibility and simplicity in mind.  
 Built with cutting-edge technologies, it offers developers and users a sleek, customizable experience.
 
-🥳 **Instagram**: [gorgichat](https://www.instagram.com/gorgichat)  
-💙 **Telegram**: [gorgichat](https://t.me/gorgichat)  
+🥳 **Instagram**: [ig.me/u/gorgichat](https://www.instagram.com/gorgichat)  
+💙 **Telegram**: [t.me/gorgichat](https://t.me/gorgichat)  
 🤖 **Discord**: [discord.gg/GyA6dt87de](https://discord.gg/GyA6dt87de)  
 🌐 **Website**: [gorgichat.github.io](https://gorgichat.github.io)  
 💻 **GitHub**: [github.com/gorgichat](https://github.com/gorgichat)  
