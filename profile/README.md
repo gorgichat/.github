@@ -6,8 +6,8 @@ Built with cutting-edge technologies, it offers developers and users a sleek, cu
 💙 **Telegram**: [gorgichat](https://t.me/gorgichat)  
 🤖 **Discord**:  [discord.gg/GyA6dt87de](https://discord.gg/GyA6dt87de)  
 🌐 **Website**:  [gorgichat.github.io](https://gorgichat.github.io)  
-🍊 **Reddit**:   [r/gorgichat](https://www.reddit.com/r/gorgichat)  
 💻 **GitHub**:   [github.com/gorgichat](https://github.com/gorgichat)  
+🍊 **Reddit**:   [r/gorgichat](https://www.reddit.com/r/gorgichat)  
 ✨ **Social**:   [gorgichat.github.io/social](https://gorgichat.github.io/social)  
 👾 **Slack**:    [gorgichat.slack.com](https://join.slack.com/t/gorgichat/shared_invite/zt-3bppl0xzb-fwW_Mazhl0CZcnG2H7oijA)  
 ---
