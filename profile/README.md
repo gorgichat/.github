@@ -5,9 +5,9 @@ Built with cutting-edge technologies, it offers developers and users a sleek, cu
 
 🌐 **Website**:  [gorgichat.github.io](https://gorgichat.github.io)  
 ✨ **Social**:   [gorgichat.github.io/social](https://gorgichat.github.io/social)  
-💻 **GitHub**:   [github.com/gorgichat](https://github.com/gorgichat)
+💻 **GitHub**:   [github.com/gorgichat](https://github.com/gorgichat)  
 👾 **Slack**:    [gorgichat.slack.com](https://join.slack.com/t/gorgichat/shared_invite/zt-3bppl0xzb-fwW_Mazhl0CZcnG2H7oijA)  
-💙 **Telegram**: [gorgichat](https://t.me/gorgichat)
+💙 **Telegram**: [gorgichat](https://t.me/gorgichat)  
 ---
 
 ## 🚀 Tech Stack
